@@ -1,6 +1,6 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Damián;This+is..;..my+GitHub..;" alt="Typing SVG"/></h1>
-    <p><img src="![terminal](terminal_01.gif)" alt="Terminal GIF" /></p>
+    ![](https://github.com/Damnndev/Damnndev/assets/92870546/6ddf39f3-16cb-4c49-b5ba-b7366b197f6a.gif)
 </div>
 
 <div align="center">
@@ -34,17 +34,48 @@
   <img src="https://raw.githubusercontent.com/Damnndev/Damnndev/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 
-<!--
-**Damnndev/Damnndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p> As a frontend engineer, I have developed proficiency in a diverse set of programming languages, each of which serves as a fundamental tool in my development arsenal. These are the languages ​​I use to turn complex problems into elegant solutions.</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center" class="section-heading">🧪 Testing Technologies</h2>
+<p>In the ever-evolving landscape of frontend development, I am proficient in utilizing leading testing frameworks and tools to ensure the reliability, performance, and user experience of web applications. These tools allow me to create robust testing environments, simulate user interactions, and verify the functionality of every component. Here's a glance at the testing technologies I specialize in:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
+<p>In the rapidly expanding field of cloud computing, I possess foundational knowledge in utilizing key cloud platforms:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+</div>
+
+<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<p>Frameworks are the backbone of my development process, as they provide the structure and tools needed to create scalable and efficient applications. Some of them are:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS"/>
+</div>
+
+<h2 align="center" class="section-heading">👨‍🎨 3D Modeling + Design</h2>
+<p>Additionally, I am proficient in using 3D modeling and design tools:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white" alt="Cinema"/>
+  <img src="https://img.shields.io/badge/ZBrush-5491F1?style=for-the-badge" alt="ZBrush"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
+
