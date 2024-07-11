@@ -79,3 +79,19 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
+<div align="center">
+<h2 align="center" class="section-heading"> 📊 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damnndev&theme=github_dark" alt="[Your Name]'s GitHub Stats"/></td>    
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damnndev&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Damnndev&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
