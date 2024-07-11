@@ -1,6 +1,6 @@
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Damián;This+is..;..my+GitHub..;" alt="Typing SVG"/></h1>
-    ![](https://github.com/Damnndev/Damnndev/assets/92870546/6ddf39f3-16cb-4c49-b5ba-b7366b197f6a.gif)
+    <img src="/terminal_01.gif" />
 </div>
 
 <div align="center">
